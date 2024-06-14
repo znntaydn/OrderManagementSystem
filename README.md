@@ -2,7 +2,7 @@
 Bu proje, C# ve SQL veritabanı kullanarak geliştirilmiş bir ürün sipariş yönetimi otomasyonudur. Uygulama, müşterilerin, ürünlerin ve siparişlerin yönetimini kolaylaştırmak amacıyla tasarlanmıştır.
 
 Özellikler
-# Müşteri Yönetimi: Müşteri ekleme, listeleme, güncelleme ve silme işlemleri.
+*Müşteri Yönetimi: Müşteri ekleme, listeleme, güncelleme ve silme işlemleri.
 # Ürün Yönetimi: Ürün ekleme, listeleme, güncelleme ve silme işlemleri.
 # Sipariş Yönetimi: Sipariş ekleme, listeleme, güncelleme ve silme işlemleri.
 
