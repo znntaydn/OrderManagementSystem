@@ -2,9 +2,9 @@
 Bu proje, C# ve SQL veritabanı kullanarak geliştirilmiş bir ürün sipariş yönetimi otomasyonudur. Uygulama, müşterilerin, ürünlerin ve siparişlerin yönetimini kolaylaştırmak amacıyla tasarlanmıştır.
 
 Özellikler
-*Müşteri Yönetimi: Müşteri ekleme, listeleme, güncelleme ve silme işlemleri.
-# Ürün Yönetimi: Ürün ekleme, listeleme, güncelleme ve silme işlemleri.
-# Sipariş Yönetimi: Sipariş ekleme, listeleme, güncelleme ve silme işlemleri.
+* Müşteri Yönetimi: Müşteri ekleme, listeleme, güncelleme ve silme işlemleri.
+* Ürün Yönetimi: Ürün ekleme, listeleme, güncelleme ve silme işlemleri.
+* Sipariş Yönetimi: Sipariş ekleme, listeleme, güncelleme ve silme işlemleri.
 
 Kurulum
 
@@ -32,28 +32,28 @@ Form1
 Bu ana formdur. Ürün, müşteri ve sipariş formlarına erişim sağlar.
 
  # Ürün Formu (UrunForm)
-   # Tüm ürünleri listeleme
-   # Yeni ürün ekleme
-   # Ürün güncelleme
-   # Ürün silme
-   # Müşteri Formu (MusteriForm)
+   * Tüm ürünleri listeleme
+   * Yeni ürün ekleme
+   * Ürün güncelleme
+   * Ürün silme
+   * Müşteri Formu (MusteriForm)
 
 # Tüm müşterileri listeleme
-   # Yeni müşteri ekleme
-   # Müşteri güncelleme
-   # Müşteri silme
+   * Yeni müşteri ekleme
+   * Müşteri güncelleme
+   * Müşteri silme
 
 # Sipariş Formu (SiparisForm)
-  # Tüm siparişleri listeleme
-  # Yeni sipariş ekleme
-  # Sipariş güncelleme
-  # Sipariş silme
+  * Tüm siparişleri listeleme
+  * Yeni sipariş ekleme
+  * Sipariş güncelleme
+  * Sipariş silme
   
 Kod Dosyaları
-# Form1.cs: Ana form ve diğer formlara erişim.
-# UrunForm.cs: Ürün yönetimi formu.
-# MusteriForm.cs: Müşteri yönetimi formu.
-# SiparisForm.cs: Sipariş yönetimi formu.
+* Form1.cs: Ana form ve diğer formlara erişim.
+* UrunForm.cs: Ürün yönetimi formu.
+* MusteriForm.cs: Müşteri yönetimi formu.
+* SiparisForm.cs: Sipariş yönetimi formu.
 
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
